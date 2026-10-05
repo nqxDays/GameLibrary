@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="GameLibrary.App/GameLibrary.App.csproj" />
+  <Project Path="GameLibrary.Data/GameLibrary.Data.csproj" />
+  <Project Path="GameLibrary.Models/GameLibrary.Models.csproj" />
+</Solution>
